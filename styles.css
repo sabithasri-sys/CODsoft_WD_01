@@ -1,0 +1,138 @@
+ body
+ {
+    margin: 0;
+padding: 0;
+line-height: 4.0;
+
+
+}
+
+header {
+background-color: hwb(180 4% 95%);
+color: #fd2727;
+padding: 10px 30px;
+text-align: center;
+color: pink;
+}
+
+header h1 {
+margin: 0;
+}
+
+nav {
+display: flex;
+justify-content: center;
+margin: 10px 0;
+color: #fd2727;
+
+}
+
+nav a {
+color: red;
+text-decoration: none;
+margin: 0 15px;
+}
+
+section {
+padding: 0px;
+color: hsl(125, 83%, 49%);
+}
+
+
+
+
+.contact{
+    color: hsl(338, 89%, 48%);
+    font-size: xx-large;
+    margin-bottom:20%;
+
+    background-color: black;
+
+
+
+}
+
+.about img {
+border-radius: 50%;
+width: 150px;
+height: 150px;
+object-fit: cover;
+display: block;
+margin: 0 auto;
+color: blue;
+}
+
+.about {
+text-align: center;
+background-color: black;
+
+}
+
+.about h1{
+    font-size: xx-large;
+    
+}
+
+ .projects {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+display: block;
+color: hwb(132 6% 92%);
+padding: 4%;
+background: hsl(182, 94%, 50%);
+
+}
+ .My Projects{
+     font-size: xx-large;
+     
+}
+.resume{
+   background-color: black;
+   font-size: xx-large;
+   
+
+}
+
+.skills{
+    background: border-box
+    color(srgb red green blue);
+    background-color: black;
+    
+}
+.skill {
+background: rgba(8, 173, 173, 0.603);
+padding: 1%;
+margin: 4px;
+border-radius: 5px;
+width: 20%;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+text-align: center;
+display: block; color: palevioletred;
+
+
+}
+
+    .Resume{
+        background-color: black;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
